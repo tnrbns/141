@@ -1,2 +1,6 @@
 # 141
-Machine problems in CMSC 141
+Some machine problems I've done for CMSC 141 - Introduction to Theory of Automata and Computation for second semester, SY 2021-2022
+
+## List of MPs
+3. Smiling is not a regular expression - Given a valid regular expression, check if strings the user inputs are valid.
+4. Grammar Nazi 2.0 - Another implementation of previous machine problem, but using deterministic finite automata.
