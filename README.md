@@ -3,4 +3,4 @@ Some machine problems I've done for CMSC 141 - Introduction to Theory of Automat
 
 ## List of MPs
 3. _Smiling is not a regular expression_ - Given a valid regular expression, check if strings the user inputs are valid.
-4. *Grammar Nazi 2.0* - Another implementation of previous machine problem, but using deterministic finite automata.
+4. *Grammar Nazi 2.0* - Another implementation of previous machine problem using deterministic finite automata.
